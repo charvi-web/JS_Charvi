@@ -5,6 +5,7 @@ console.log("02" > 1)  //already converts to number
 console.log(null > 0)  //true
 console.log(null == 0)
 console.log(null >= 0) 
+//avoid such codes
 
 // ===  checks datatype as well 
 console.log("2" === 2)
