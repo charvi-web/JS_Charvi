@@ -1,4 +1,4 @@
-//primitive and non premitive
+//primitive and non primitive
 // Primitive data types in JavaScript include:
 // Number , String , Boolean , Null , Undefined , Symbol , BigInt
 // Non-primitive data types include: reference type like Objects, Arrays, Functions
