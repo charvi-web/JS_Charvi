@@ -54,16 +54,16 @@ console.log(username)
 
 console.log(addone(5))
 
-function addone(n)
+function addone(n) //declaration 1
 {
     return n+1
 }
 
-console.log(add2(2))
+console.log(add2(2))   //declaration 2
 const add2 = function(n)
     {
         return n+2
     }
 
 
-    //declaration matters hoisting --kis tarah se declare kr rhe h store kr rhe h 
+    //declaration matters /hoisting --kis tarah se declare kr rhe h. store kr rhe h 
