@@ -11,8 +11,9 @@ switch(month)
         console.log("March");
         break;
     case 4:
+        //case("april") agr string h toh
         console.log("April");
         break;
     default:
-        console.log("others")
+        console.log("others");
 }
